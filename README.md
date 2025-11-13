@@ -7,7 +7,7 @@ A powerful Python tool for mass joining Kahoot games with proxy support and auto
 - 🚀 **Mass Joining**: Join Kahoot games with multiple bots simultaneously
 - 🔄 **Proxy Support**: Rotate through proxies from a file to avoid rate limiting
 - 🧩 **Auto Challenge Solving**: Automatically solves Kahoot's WebSocket challenge
-- 🎯 **Custom Usernames**: Generate unique usernames with random numbers
+- 🎯 **Custom Usernames**: Generate unique usernames with random sufix
 - ⚡ **Async Performance**: Built with asyncio for high-performance concurrent connections
 
 ## Installation
